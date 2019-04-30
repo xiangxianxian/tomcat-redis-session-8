@@ -1,0 +1,3 @@
+eclipse.preferences.version=1
+encoding//src/com/orangefunction/tomcat/redissessions=UTF-8
+encoding//src/com/orangefunction/tomcat/redissessions/RedisSessionManager.java=UTF-8
